@@ -4,7 +4,7 @@ import { ApolloClient, InMemoryCache, createHttpLink, ApolloProvider } from '@ap
 import {setContext} from '@apollo/client/link/context';
 
 const httpLink = createHttpLink({
-  uri: 'https://infinite-oasis-55145.herokuapp.com/'
+  uri: 'https://merng-social-media-site-backend.onrender.com/'
 })
 
 const authLink = setContext((_, { headers }) => {
