@@ -1,4 +1,4 @@
-# Hosted Webapp: [text](https://social-media-app-shreyas-shah.netlify.app/)
+# Hosted Webapp: [https://social-media-app-shreyas-shah.netlify.app/](https://social-media-app-shreyas-shah.netlify.app/)
 
 # Getting Started with Create React App
 
